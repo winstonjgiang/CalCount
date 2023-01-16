@@ -1,4 +1,3 @@
-# CalCount
 # CalCount, GUI included w/ Tkinter
 
 
