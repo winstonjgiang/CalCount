@@ -1,4 +1,4 @@
-# CalCount
+# CalCount (Python, using Tkinter)
 CalCount, GUI include
 
 
